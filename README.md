@@ -16,3 +16,5 @@ https://kutty.netlify.app/components/
 https://wickedblocks.dev/
 
 https://uicolors.app/create
+
+https://favicon.io/
